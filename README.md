@@ -1,1 +1,1 @@
-# CFD-result-prediction-using-ANN-and-ANFIS
+# CFD result prediction using ANN and ANFIS
