@@ -10,10 +10,10 @@
 <h2 align="left">How to use: </h2>
 <p align="justify">
 <ul>
-<li>You need matlab to run the code</li>
-<li>Import your data to in data variable</li>
-<li>Change the split data funciton according to your total data. For example if your total data is x, .75x (or 75% of your data) must be an integer. If not change the value to 0.8 or accordingly</li>
-<li>Change hidden layer number accordingly</li>
+<li>You need Matlab to run the code</li>
+<li>Import your input (x) and output (y) data accordingly </li>
+<li>Change the split data funciton according to your total data. For example if your total data is x, .8x (or 75% of your data) must be an integer. If not change the value to 0.75 or something that works</li>
+<li>Change hidden layer number accordingly (Increasing will take more resource and time)</li>
 </ul>
 </p>
 
