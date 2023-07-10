@@ -28,7 +28,7 @@ license.txt
 <img src="./Images/facebook.png" width="35"/>
 </a>
 
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=email@domain.example">
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abidmorshed22@gmail.com">
 <img src="./Images/gmail.png" width="32"/>
 </a>
 
