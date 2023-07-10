@@ -1,8 +1,12 @@
+<!--heading-->
 <h1 align="center"><u>Integrating NN in CFD model</u></h1>
 
+<!--description-->
 <h2 align="left">Description:</h2>
 <p align="justify"><i>Matlab R2022b</i> was used to build the neural network model shown here.The model takes <b>5</b> inputs (x and y position, Reynolds number, Richardson number and Speed ratio) to predict the heat transfer characteristics and pressure drop characteristics of the CFD model I used. Two different types of NN model is used for prediction-<b>ANN</b> and <b>ANFIS</b>. There is also a <b>regression model</b> and <b>decision tree</b> algorithm constructed for the same purpose. The validation parameters R square value, RMSE, and MAPE are used to compare each model to the others at the end. </p>
 
+
+<!--how to use-->
 <h2 align="left">How to use: </h2>
 <p align="justify">
 <ul>
@@ -13,12 +17,25 @@
 </ul>
 </p>
 
+<!--credits-->
 <h2 align="Left">Credits:</h2>
 <p>
 <a href="https://github.com/AbidMorshed">Abid Al Morshed</a>
 </p>
+
+
+<!--future update-->
+
+<h2 align="Left">Future Update:</h2>
+-[x] Suggest best algorithm for ANN and ANFIS
+-[ ] Combine all ANN algorithm in to one
+-[ ] Combine all output into one
+<!--License-->
+
 <h2 align="left">License:</h2>
 license.txt
+
+<!--contact-->
 <h2 align="Left">Contact:</h2>
 
 <a href="https://www.linkedin.com/in/abidalmorshed/">
