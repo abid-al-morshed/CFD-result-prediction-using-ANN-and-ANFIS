@@ -29,7 +29,7 @@
 <h2 align="Left">Future Update:</h2>
 
 - [x] Suggest best algorithm for ANN and ANFIS  
-- [ ] Combine all ANN algorithm in to one  
+- [x] Combine all ANN algorithm in to one  
 - [ ] Combine all output into one
 <!--License-->
 
