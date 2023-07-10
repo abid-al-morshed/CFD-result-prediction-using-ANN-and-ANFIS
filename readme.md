@@ -11,7 +11,7 @@
 <p align="justify">
 <ul>
 <li>You need matlab to run the code</li>
-<li>Import your data to in Levenberg-Marquardt</li>
+<li>Import your data to in data variable</li>
 <li>Change the split data funciton according to your total data. For example if your total data is x, .75x (or 75% of your data) must be an integer. If not change the value to 0.8 or accordingly</li>
 <li>Change hidden layer number accordingly</li>
 </ul>
@@ -30,6 +30,7 @@
 
 - [x] Suggest best algorithm for ANN and ANFIS  
 - [x] Combine all ANN algorithm in to one  
+- [ ] Make ANFIS moduler
 - [ ] Combine all output into one
 <!--License-->
 
