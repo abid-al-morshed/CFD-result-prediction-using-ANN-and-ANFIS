@@ -3,7 +3,7 @@
 
 <!--description-->
 <h2 align="left">Description:</h2>
-<p align="justify"><i>Matlab R2022b</i> was used to build the neural network model shown here.The model takes <b>5</b> inputs (x and y position, Reynolds number, Richardson number and Speed ratio) to predict the heat transfer characteristics and pressure drop characteristics of the CFD model I used. Two different types of NN model is used for prediction-<b>ANN</b> and <b>ANFIS</b>. There is also a <b>regression model</b> and <b>decision tree</b> algorithm constructed for the same purpose. The validation parameters R square value, RMSE, and MAPE are used to compare each model to the others at the end. </p>
+<p align="justify"><i>Matlab R2022b</i> is used to build the neural network model shown here.The model takes <b>5</b> inputs (x and y position, Reynolds number, Richardson number and Speed ratio) to predict the heat transfer characteristics and pressure drop characteristics of the CFD model I used. Two different types of NN model is used for prediction-<b>ANN</b> and <b>ANFIS</b>. There is also a <b>regression model</b> and <b>decision tree</b> algorithm constructed for the same purpose. The validation parameters R square value, RMSE, and MAPE are used to compare each model to the others at the end. </p>
 
 
 <!--how to use-->
