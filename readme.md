@@ -20,7 +20,7 @@
 <!--credits-->
 <h2 align="Left">Credits:</h2>
 <p>
-<a href="https://github.com/AbidMorshed">Abid Al Morshed</a>
+<a href="https://abid-al-morshed.github.io/">Abid Al Morshed</a>
 </p>
 
 
